@@ -5,4 +5,4 @@ This respository is primarily going to be used for labs related to network secur
 ## Table of Contents
 
 ### 1. Cybersecurity Tools
-- [Learning More About Nmap](Cybersecurity%20Tools / Learning%20More%20About%20Nmap.md) 
+- [Learning More About Nmap](Cybersecurity%20Tools/Learning%20More%20About%20Nmap.md) 
