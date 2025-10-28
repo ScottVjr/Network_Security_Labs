@@ -5,8 +5,11 @@ This respository is primarily going to be used for labs related to network secur
 ## Table of Contents
 
 ### 1 Cybersecurity Tools
-- [Learning More About Nmap][(https://github.com/ScottVjr/Network_Security_Labs/blob/main/Cybersecurity%20Tools/Learning%20More%20About%20Nmap.pdf)]
+- [Learning More About Nmap]
+[(https://github.com/ScottVjr/Network_Security_Labs/blob/main/Cybersecurity%20Tools/Learning%20More%20About%20Nmap.pdf)]
 
-- [Working With Firewalls][(https://github.com/ScottVjr/Network_Security_Labs/blob/main/Cybersecurity%20Tools/Working%20With%20Firewalls.pdf)]
+- [Working With Firewalls]
+[(https://github.com/ScottVjr/Network_Security_Labs/blob/main/Cybersecurity%20Tools/Working%20With%20Firewalls.pdf)]
  
-- [Configuring Snort][(https://github.com/ScottVjr/Network_Security_Labs/blob/main/Cybersecurity%20Tools/Configuring%20Snort.pdf)]
+- [Configuring Snort]
+[(https://github.com/ScottVjr/Network_Security_Labs/blob/main/Cybersecurity%20Tools/Configuring%20Snort.pdf)]
