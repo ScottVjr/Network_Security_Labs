@@ -9,4 +9,4 @@ This respository is primarily going to be used for labs related to network secur
 
 - [Working With Firewalls][(https://github.com/ScottVjr/Network_Security_Labs/blob/main/Cybersecurity%20Tools/Working%20With%20Firewalls.pdf)]
  
-- [Configuring Snort][(insert link here)]
+- [Configuring Snort][(https://github.com/ScottVjr/Network_Security_Labs/blob/main/Cybersecurity%20Tools/Configuring%20Snort.pdf)]
